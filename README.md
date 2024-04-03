@@ -7,3 +7,4 @@ Pixel manipulation refers to the process of altering the color values of individ
 ![encrypted_image](https://github.com/cadmostafijur/PRODIGY_CS_02/assets/104758273/4e2b41e5-bfd0-4afb-bc48-082a4e3827c4)
 ![decrypted_image](https://github.com/cadmostafijur/PRODIGY_CS_02/assets/104758273/d9fb8cc5-9201-4573-be21-326fbe1ca7ec)
 
+![encrypted_image](https://github.com/cadmostafijur/PRODIGY_CS_02/assets/104758273/5e5bc5b9-f7aa-499f-a4e3-14c70920cdef)
