@@ -37,7 +37,7 @@ def decrypt_image(encrypted_image_path, key):
 
 #test:
 image_path = "teddy.jpg"
-encryption_key = 123
+encryption_key = 128
 encrypt_image(image_path, encryption_key)
 
 encrypted_image_path = "encrypted_image.png"
